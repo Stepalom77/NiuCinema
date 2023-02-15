@@ -1,0 +1,15 @@
+#header {
+  background-color: white;
+  border-color: white;
+}
+
+#logo {
+  max-width: 65%;
+  height: auto;
+}
+
+#header-link {
+  color: #1c739c;
+  font-weight: 600;
+  border: none;
+}
